@@ -1,0 +1,2 @@
+# chin
+a amateur programer
